@@ -1,0 +1,10 @@
+﻿@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<<%=featureNamespace%>.Models.<%=featureName%>RenderingModel>
+
+@using Sitecore.XA.Foundation.MarkupDecorator.Extensions
+@using Sitecore.XA.Foundation.SitecoreExtensions.Extensions
+
+<div @Html.Sxa().Component("<%=featureCssClass%>", Model.Attributes)>
+    <div class="component-content">
+        
+    </div>
+</div>

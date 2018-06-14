@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {<%-renderingParametersItemGuid%>}
+database: master
+path: /sitecore/templates/Feature/<%-tenantFolderName%>/Page Content/Rendering Parameters/<%-featureName%>
+parent: {8E1B4658-6336-42D1-9D72-8BFD7D72914E}
+name: <%-featureName%>
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+created: 20171211T151618Z
+
+----field----
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
+content-length: 194
+
+{8CA06D6A-B353-44E8-BC31-B528C7306971}|{D959F476-2A2C-40C6-81F5-FB75342BBFB9}|{FF75632A-03ED-4D31-B42A-1EEE45E5147F}|{A9F8A74E-5F7D-4506-8661-B08E7B9A7B91}|{3DB3EB10-F8D0-4CC9-BE26-18CE7B139EC8}
+----version----
+language: en
+version: 1
+revision: 79f4010d-6628-4915-8c1b-907f3403c3a3
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171211T151618Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+79f4010d-6628-4915-8c1b-907f3403c3a3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171211T151758Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
