@@ -1,10 +1,9 @@
 ﻿using <%=featureNamespace%>.Data;
 using Sitecore.XA.Foundation.Mvc.Controllers;
-using System.Web.Mvc;
 
 namespace <%=featureNamespace%>.Controllers
 {
-    public class <%=featureName%>Controller : StandardController
+    public class <%=featureName%>Controller : <%=baseControllerName%>
     {
         private readonly I<%=featureName%>Repository _repository;
 

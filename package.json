@@ -3,11 +3,15 @@
   "version": "0.0.0",
   "description": "Sitecore SXA Helix module generator",
   "homepage": "",
-  "author": {
+  "author": [{
     "name": "Dmytro Shevchenko",
     "email": "dmitrii.shevchenko@gmail.com",
     "url": "http://structuredcode.com"
   },
+  {
+    "name": "Mykhailo Mukhin",
+    "email": "mykhailo.mukhin@gmail.com"
+  }],
   "files": [
     "generators"
   ],
