@@ -35,11 +35,11 @@ module.exports = class extends Generator {
             message : 'The name of the SXA tenant (found under /sitecore/content), also used to group features together:',
             store   : true
         },
-		{
+        {
             type    : 'input',
             name    : 'baseControllerName',
             message : 'The name of base controller from which the component controller will inherit:',
-			default : 'StandardController',
+            default : 'StandardController',
             store   : true
         }];
 

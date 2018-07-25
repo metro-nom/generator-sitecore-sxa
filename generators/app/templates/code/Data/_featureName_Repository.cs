@@ -16,9 +16,9 @@ namespace <%=featureNamespace%>.Repositories
 
         public override IRenderingModelBase GetModel()
         {
-			if (this.Rendering.DataSourceItem == null)
+            if (this.Rendering.DataSourceItem == null)
                 throw new System.NullReferenceException("Data source item is not specified");
-			
+
             var model = _sitecoreService.Cast<<%=featureName%>RenderingModel>(this.Rendering.DataSourceItem);
             FillBaseProperties(model);
             return model;
