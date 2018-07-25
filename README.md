@@ -33,16 +33,6 @@ The Sitecore SXA generator for Yeoman allows you to easily add new features to y
 
 * If you don't have a solution yet, create one, or generate it using [the Helix generator](https://www.npmjs.com/package/generator-helix).
 * Make sure that the [Sitecore NuGet feed](https://doc.sitecore.net/sitecore_experience_platform/developing/developing_with_sitecore/sitecore_public_nuget_packages_faq) is set up in Visual Studio
-* Put the following DLLs to the `\dependencies` directory under your solution root:
-  - `Sitecore.XA.Foundation.Common.dll`
-  - `Sitecore.XA.Foundation.Editing.dll`
-  - `Sitecore.XA.Foundation.IoC.dll`
-  - `Sitecore.XA.Foundation.MarkupDecorator.dll`
-  - `Sitecore.XA.Foundation.Mvc.dll`
-  - `Sitecore.XA.Foundation.Presentation.dll`
-  - `Sitecore.XA.Foundation.RenderingVariants.dll`
-  - `Sitecore.XA.Foundation.SitecoreExtensions.dll`
-  - `Sitecore.XA.Foundation.Variants.Abstractions.dll`
 
 ## Running the generator
 

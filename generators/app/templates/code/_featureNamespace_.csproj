@@ -115,48 +115,46 @@
       <HintPath><%-rootRelativePath%>packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Kernel, Version=11.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.Kernel.9.0.171219\lib\NET462\Sitecore.Kernel.dll</HintPath>
+      <HintPath>..\..\..\..\packages\Sitecore.Kernel.9.0.180604\lib\NET462\Sitecore.Kernel.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Logging, Version=11.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.Logging.9.0.171219\lib\NET462\Sitecore.Logging.dll</HintPath>
+      <HintPath>..\..\..\..\packages\Sitecore.Logging.9.0.180604\lib\NET462\Sitecore.Logging.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Logging.Client, Version=11.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.Logging.Client.9.0.171219\lib\NET462\Sitecore.Logging.Client.dll</HintPath>
+      <HintPath>..\..\..\..\packages\Sitecore.Logging.Client.9.0.180604\lib\NET462\Sitecore.Logging.Client.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.NVelocity, Version=8.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.NVelocity.9.0.171219\lib\NET462\Sitecore.NVelocity.dll</HintPath>
+      <HintPath>..\..\..\..\packages\Sitecore.NVelocity.9.0.180604\lib\NET462\Sitecore.NVelocity.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.Common">
-      <HintPath><%-rootRelativePath%>dependencies\Sitecore.XA.Foundation.Common.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.Common, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.Common.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.Common.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.Editing">
-      <HintPath><%-rootRelativePath%>dependencies\Sitecore.XA.Foundation.Editing.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.Editing, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.Editing.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.Editing.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.IoC">
-      <HintPath><%-rootRelativePath%>dependencies\Sitecore.XA.Foundation.IoC.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.IoC, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.IoC.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.IoC.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.MarkupDecorator">
-      <HintPath><%-rootRelativePath%>dependencies\Sitecore.XA.Foundation.MarkupDecorator.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.MarkupDecorator, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.MarkupDecorator.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.MarkupDecorator.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.Mvc">
-      <HintPath><%-rootRelativePath%>dependencies\Sitecore.XA.Foundation.Mvc.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.Mvc, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.Mvc.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.Mvc.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.Presentation">
-      <HintPath><%-rootRelativePath%>dependencies\Sitecore.XA.Foundation.Presentation.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.Presentation, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.Presentation.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.Presentation.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.RenderingVariants, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath><%-rootRelativePath%>dependencies\Sitecore.XA.Foundation.RenderingVariants.dll</HintPath>
+	<Reference Include="Sitecore.XA.Foundation.RenderingVariants, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.RenderingVariants.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.RenderingVariants.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions">
-      <HintPath><%-rootRelativePath%>dependencies\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.SitecoreExtensions.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.Variants.Abstractions, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath><%-rootRelativePath%>dependencies\Sitecore.XA.Foundation.Variants.Abstractions.dll</HintPath>
+	<Reference Include="Sitecore.XA.Foundation.Variants.Abstractions, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.Variants.Abstractions.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.Variants.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Zip, Version=11.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.Zip.9.0.171219\lib\NET462\Sitecore.Zip.dll</HintPath>
+      <HintPath>..\..\..\..\packages\Sitecore.Zip.9.0.180604\lib\NET462\Sitecore.Zip.dll</HintPath>
     </Reference>
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Runtime.Serialization" />
