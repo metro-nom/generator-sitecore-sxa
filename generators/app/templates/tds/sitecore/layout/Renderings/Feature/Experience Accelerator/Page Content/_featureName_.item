@@ -44,6 +44,13 @@ name: Datasource Location
 key: datasource location
 content-length: <%-datasourceQuery.length%>
 
+IsAutoDatasourceRendering=true
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 142
+
 <%-datasourceQuery%>
 ----field----
 field: {1A7C85E5-DC0B-490D-9187-BB1DBCB4C72F}
