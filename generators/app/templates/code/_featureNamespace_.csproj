@@ -127,31 +127,31 @@
       <HintPath><%-rootRelativePath%>packages\Sitecore.NVelocity.9.0.180604\lib\NET462\Sitecore.NVelocity.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.Common, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.Common.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.Common.dll</HintPath>
+      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.Common.3.7.1\lib\NET462\Sitecore.XA.Foundation.Common.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.Editing, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.Editing.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.Editing.dll</HintPath>
+      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.Editing.3.7.1\lib\NET462\Sitecore.XA.Foundation.Editing.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.IoC, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.IoC.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.IoC.dll</HintPath>
+      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.IoC.3.7.1\lib\NET462\Sitecore.XA.Foundation.IoC.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.MarkupDecorator, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.MarkupDecorator.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.MarkupDecorator.dll</HintPath>
+      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.MarkupDecorator.3.7.1\lib\NET462\Sitecore.XA.Foundation.MarkupDecorator.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.Mvc, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.Mvc.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.Mvc.dll</HintPath>
+      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.Mvc.3.7.1\lib\NET462\Sitecore.XA.Foundation.Mvc.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.Presentation, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.Presentation.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.Presentation.dll</HintPath>
+      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.Presentation.3.7.1\lib\NET462\Sitecore.XA.Foundation.Presentation.dll</HintPath>
     </Reference>
 	<Reference Include="Sitecore.XA.Foundation.RenderingVariants, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.RenderingVariants.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.RenderingVariants.dll</HintPath>
+      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.RenderingVariants.3.7.1\lib\NET462\Sitecore.XA.Foundation.RenderingVariants.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.SitecoreExtensions.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
+      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.SitecoreExtensions.3.7.1\lib\NET462\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
     </Reference>
 	<Reference Include="Sitecore.XA.Foundation.Variants.Abstractions, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.Variants.Abstractions.3.7.0.643\lib\NET462\Sitecore.XA.Foundation.Variants.Abstractions.dll</HintPath>
+      <HintPath><%-rootRelativePath%>packages\Sitecore.XA.Foundation.Variants.Abstractions.3.7.1\lib\NET462\Sitecore.XA.Foundation.Variants.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Zip, Version=11.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath><%-rootRelativePath%>packages\Sitecore.Zip.9.0.180604\lib\NET462\Sitecore.Zip.dll</HintPath>
